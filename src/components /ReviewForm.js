@@ -33,7 +33,7 @@ const ReviewForm = ({ onAddReview }) => {
   // Render the ReviewForm component
   return (
     <form onSubmit={handleSubmit} className="review-form">
-      <h3>Leave a Review</h3>
+      <h4>Leave a Review</h4>
       <Stars rating={rating} onChange={setRating} /> {/* Render the Stars component with rating and onChange props */}
       <input
         type="text"

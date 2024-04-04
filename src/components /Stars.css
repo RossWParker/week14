@@ -19,3 +19,7 @@
     color: gold;
     
   }
+
+  .movie.synopsis {
+    width: 600px;
+  }

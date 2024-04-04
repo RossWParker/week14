@@ -57,6 +57,7 @@ const MovieList = () => {
         },
     ]);
 
+       
     // Render the MovieList component
     return (
         <div>
