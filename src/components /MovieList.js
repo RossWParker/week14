@@ -48,7 +48,7 @@ const MovieList = () => {
         },
         {
             id: 5,
-            title: 'The Godfather',
+            title5: 'The Godfather',
             image: 'https://m.media-amazon.com/images/I/71khjV-MoOS.__AC_SX300_SY300_QL70_FMwebp_.jpg',
             starring: 'Al Pacino, James Caan, Marlon Brando ',
             synopsis: "Widely regarded as one of the greatest films of all time, this mob drama, based on Mario Puzo's novel of the same name, focuses on the powerful Italian-American crime family of Don Vito Corleone (Marlon Brando). When the don's youngest son, Michael (Al Pacino), reluctantly joins the Mafia, he becomes involved in the inevitable cycle of violence and betrayal. Although Michael tries to maintain a normal relationship with his wife.",
