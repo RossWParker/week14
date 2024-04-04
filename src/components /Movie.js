@@ -62,11 +62,11 @@ const Movie = ({ movie }) => {
     <div className="movie">
       <h3>{movie.title}</h3>
       <img src={movie.image} alt={movie.title} width="300px" />
-      <p style={{ maxWidth: "800px", margin: "0 auto" }}>{movie.synopsis}</p>
+      <p style={{ maxWidth: "800px", margin: "0 auto", }}>{movie.synopsis}</p>
       
       <h2>Starring</h2>
       <p>{movie.starring}</p>
-      <h3>Rating: {movie.rating}</h3>
+      <h5>Rating: {movie.rating}</h5>
 
       {/* Render the ReviewList component passing reviews and handleDeleteReview as props */}
       <ReviewList reviews={reviews} onDelete={handleDeleteReview} />
