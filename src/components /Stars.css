@@ -1,6 +1,7 @@
 .stars {
     margin-bottom: 10px;
     cursor: pointer;
+   
   }
   
   .star {
@@ -14,7 +15,6 @@
   }
   
   .star-filled {
-    border: black;
     cursor: pointer;
     color: gold;
     
