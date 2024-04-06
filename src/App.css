@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  font-family:'Times New Roman', Times, serif;
+  font-family:fantasy;
   font-size: 22.5px;
   font-weight: 700;
 	background: url(https://cdn.wallpapersafari.com/59/9/jdBCIz.jpg);
@@ -47,6 +47,7 @@ h2 {
 
 h3 {
   font-size: 35px;
+  
 }
 .title {
   font-size: 35px;
