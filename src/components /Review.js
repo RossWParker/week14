@@ -16,7 +16,7 @@ const Review = ({ review, onDelete }) => {
         
         <span className="review-name">{review.name}</span>
         
-      {/* I am adding a space and drawing out stars based off the numeric rating */}
+      {/* adding a space and drawing out stars based off the numeric rating */}
         <span className="review-rating"> {stars}</span>
       
         <span className="review-stars">★</span>
